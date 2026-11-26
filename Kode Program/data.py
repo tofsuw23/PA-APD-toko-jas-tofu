@@ -41,7 +41,7 @@ seluruh_sewa = {
     },
     3: {
         "nama": "Muhammad Arsyad",
-        "telepon": "081101011011",
+        "telepon": "085611122233",
         "tanggal": "12 November 2026",
         "id_jas": 3,
         "jas": "Jas Abu Formal (XL)",

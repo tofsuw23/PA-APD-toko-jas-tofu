@@ -93,7 +93,7 @@ def tampilkan_tabel_akun():
 def tampilkan_header_utama():
     clear_screen()
     print("=" * 42)
-    print("   SISTEM PENYEWAAN JAS")
+    print("          SISTEM PENYEWAAN JAS")
     print("=" * 42)
 def tampilkan_penutup():
     clear_screen()
